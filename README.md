@@ -25,21 +25,22 @@ Welcome to my project on shape detection and classification, developed for my Co
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/RezaToosii/Shape-Detection-Classification-YOLO-ResNet
 cd Shape-Detection-Classification-YOLO-ResNet
+```
 
-
-Generate Shapes
+## Generate Shapes
 Run the Shape_Generation.py script to create the dataset of random shapes and their annotations.
 
-bash
-Copy code
+```bash
 python Shape_Generation.py
-Train YOLO Model
+```
+
+## Train YOLO Model
 Open and execute the Yolo_Train.ipynb notebook to train the YOLO model using the generated dataset.
 
-Train ResNet Model
+## Train ResNet Model
 Open and execute the Resnet_Train.ipynb notebook to train the custom ResNet model on the generated dataset.
 
-Evaluate Models
+## Evaluate Models
 Use the respective validation notebooks (Yolo_val.ipynb and Resnet_val.ipynb) to evaluate the trained models.
