@@ -20,6 +20,15 @@ Welcome to my project on shape detection and classification, developed for my Co
 - **Resnet_Train.ipynb**: Jupyter Notebook for ResNet model training.
 - **Resnet_val.ipynb**: Jupyter Notebook for ResNet model validation.
 
+## Results
+
+### YOLO Model Result
+![YOLO Result](images/yolo_result.png)
+
+### ResNet Model Result
+![ResNet Result](images/resnet_result.png)
+
+
 ## How to Use
 
 ### Clone the Repository
