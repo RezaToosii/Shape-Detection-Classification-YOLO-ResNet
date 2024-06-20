@@ -22,11 +22,18 @@ Welcome to my project on shape detection and classification, developed for my Co
 
 ## Results
 
-### YOLO Model Result
-![YOLO Result](images/yolo_result.png)
-
-### ResNet Model Result
-![ResNet Result](images/resnet_result.png)
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <p>YOLO Result</p>
+      <img src="yolo_result.png" alt="YOLO Result" width="400"/>
+    </td>
+    <td style="text-align: center;">
+      <p>ResNet Result</p>
+      <img src="resnet_result.png" alt="ResNet Result" width="400"/>
+    </td>
+  </tr>
+</table>
 
 
 ## How to Use
