@@ -1,0 +1,8 @@
+names:
+- circle
+- triangle
+- rectangle
+nc: 3
+path: G:\shapes/yolo_dataset
+train: images/train/
+val: images/val/
